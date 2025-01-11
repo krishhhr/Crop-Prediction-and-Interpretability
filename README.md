@@ -59,7 +59,7 @@ Key visualizations include:
 - **Correlation heatmap:** Identified strong positive correlation between `P` (phosphorus) and crop yield.
 - **Temperature vs. Humidity scatter plot.**
 
-![Scatter Plot](![download](https://github.com/user-attachments/assets/55a93544-db7e-412f-9662-5c41b6676538)
+![Scatter Plot](https://github.com/user-attachments/assets/55a93544-db7e-412f-9662-5c41b6676538)
 ) <!-- Replace with your scatter plot URL -->
 
 ### 3. **Model Selection**
@@ -80,7 +80,7 @@ SHAP (SHapley Additive exPlanations) values were used to:
   - **Accuracy:** 99.7%
   - **Precision, Recall, F1-Score:** Above 90% for all classes.
   
-![Model Accuracy Comparison](![image](https://github.com/user-attachments/assets/905a0746-c27f-4cf8-bd7f-1e9f59f1dbc8)
+![Model Accuracy Comparison](https://github.com/user-attachments/assets/905a0746-c27f-4cf8-bd7f-1e9f59f1dbc8)
 ) <!-- Replace with your accuracy comparison chart -->
 
 ### SHAP Analysis
@@ -89,21 +89,21 @@ SHAP (SHapley Additive exPlanations) values were used to:
 - **Key factors:** High humidity, consistent rainfall, and balanced nitrogen levels.
 - **Insights:** Rice thrives in regions with sufficient water and moderate nitrogen content.
   
-![SHAP Analysis for Rice](![image](https://github.com/user-attachments/assets/f927bf49-d12c-46cb-b364-70f20e0f4ac2)
+![SHAP Analysis for Rice](https://github.com/user-attachments/assets/f927bf49-d12c-46cb-b364-70f20e0f4ac2)
 ) <!-- Replace with your SHAP image for rice -->
 
 #### 2. **Cotton**
 - **Key factors:** Warm temperatures and adequate potassium.
 - **Insights:** Cotton benefits from potassium for strong fiber formation.
   
-![SHAP Analysis for Cotton](![image](https://github.com/user-attachments/assets/427f98ae-7e73-4212-8047-59477a1d4f31)
+![SHAP Analysis for Cotton](https://github.com/user-attachments/assets/427f98ae-7e73-4212-8047-59477a1d4f31)
 ) <!-- Replace with your SHAP image for cotton -->
 
 #### 3. **Papaya**
 - **Key factors:** Warm temperatures above 20°C, high humidity, and consistent rainfall.
 - **Insights:** Papaya thrives in humid climates with moderate rainfall.
   
-![SHAP Analysis for Papaya](![image](https://github.com/user-attachments/assets/d4bb1969-468c-47e8-8a26-0e7b488f584b)
+![SHAP Analysis for Papaya](https://github.com/user-attachments/assets/d4bb1969-468c-47e8-8a26-0e7b488f584b)
 ) <!-- Replace with your SHAP image for papaya -->
 
 ---
