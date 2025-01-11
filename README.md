@@ -59,8 +59,7 @@ Key visualizations include:
 - **Correlation heatmap:** Identified strong positive correlation between `P` (phosphorus) and crop yield.
 - **Temperature vs. Humidity scatter plot.**
 
-![Scatter Plot](https://github.com/user-attachments/assets/55a93544-db7e-412f-9662-5c41b6676538)
-) <!-- Replace with your scatter plot URL -->
+![Scatter Plot](https://github.com/user-attachments/assets/55a93544-db7e-412f-9662-5c41b6676538) <!-- Replace with your scatter plot URL -->
 
 ### 3. **Model Selection**
 Three models were evaluated:
