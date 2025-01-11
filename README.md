@@ -42,7 +42,7 @@ The dataset contains **2,200 entries** and includes the following features:
 - **Rainfall** shows significant variation, reflecting diverse climates.
 - **pH values** span 3.5–9.5, indicating varied soil types.
 
-![Correlation Heatmap](![image](https://github.com/user-attachments/assets/05715856-a686-4ced-bd8b-80af7d858168)
+![[Correlation Heatmap]](https://github.com/user-attachments/assets/05715856-a686-4ced-bd8b-80af7d858168)
 ) <!-- Replace with your heatmap URL -->
 
 ---
