@@ -2,8 +2,6 @@
 
 This project explores the use of **machine learning (ML)** techniques to recommend optimal crops based on environmental and soil parameters. By leveraging advanced ML models and **Explainable AI (XAI)** methods, we aim to enhance agricultural productivity and sustainability.
 
-![Header Image](https://via.placeholder.com/1200x400.png?text=Crop+Prediction+Project) <!-- Replace with actual image URL -->
-
 ---
 
 ## 📖 Table of Contents
@@ -44,7 +42,8 @@ The dataset contains **2,200 entries** and includes the following features:
 - **Rainfall** shows significant variation, reflecting diverse climates.
 - **pH values** span 3.5–9.5, indicating varied soil types.
 
-![Correlation Heatmap](https://via.placeholder.com/600x400.png?text=Heatmap+Placeholder) <!-- Replace with actual heatmap -->
+![Correlation Heatmap](![image](https://github.com/user-attachments/assets/05715856-a686-4ced-bd8b-80af7d858168)
+) <!-- Replace with your heatmap URL -->
 
 ---
 
@@ -60,7 +59,8 @@ Key visualizations include:
 - **Correlation heatmap:** Identified strong positive correlation between `P` (phosphorus) and crop yield.
 - **Temperature vs. Humidity scatter plot.**
 
-![Scatter Plot](https://via.placeholder.com/600x400.png?text=Scatter+Plot+Placeholder) <!-- Replace with actual scatter plot -->
+![Scatter Plot](![download](https://github.com/user-attachments/assets/55a93544-db7e-412f-9662-5c41b6676538)
+) <!-- Replace with your scatter plot URL -->
 
 ### 3. **Model Selection**
 Three models were evaluated:
@@ -80,12 +80,31 @@ SHAP (SHapley Additive exPlanations) values were used to:
   - **Accuracy:** 99.7%
   - **Precision, Recall, F1-Score:** Above 90% for all classes.
   
-![Model Accuracy Comparison](https://via.placeholder.com/600x400.png?text=Model+Comparison+Placeholder) <!-- Replace with actual accuracy chart -->
+![Model Accuracy Comparison](![image](https://github.com/user-attachments/assets/905a0746-c27f-4cf8-bd7f-1e9f59f1dbc8)
+) <!-- Replace with your accuracy comparison chart -->
 
-### Detailed SHAP Analysis
-- **Rice:** High humidity and rainfall were significant factors.
-- **Cotton:** Warm temperatures and potassium improved yields.
-- **Papaya:** Thrives in humid, warm climates.
+### SHAP Analysis
+
+#### 1. **Rice**
+- **Key factors:** High humidity, consistent rainfall, and balanced nitrogen levels.
+- **Insights:** Rice thrives in regions with sufficient water and moderate nitrogen content.
+  
+![SHAP Analysis for Rice](![image](https://github.com/user-attachments/assets/f927bf49-d12c-46cb-b364-70f20e0f4ac2)
+) <!-- Replace with your SHAP image for rice -->
+
+#### 2. **Cotton**
+- **Key factors:** Warm temperatures and adequate potassium.
+- **Insights:** Cotton benefits from potassium for strong fiber formation.
+  
+![SHAP Analysis for Cotton](![image](https://github.com/user-attachments/assets/427f98ae-7e73-4212-8047-59477a1d4f31)
+) <!-- Replace with your SHAP image for cotton -->
+
+#### 3. **Papaya**
+- **Key factors:** Warm temperatures above 20°C, high humidity, and consistent rainfall.
+- **Insights:** Papaya thrives in humid climates with moderate rainfall.
+  
+![SHAP Analysis for Papaya](![image](https://github.com/user-attachments/assets/d4bb1969-468c-47e8-8a26-0e7b488f584b)
+) <!-- Replace with your SHAP image for papaya -->
 
 ---
 
