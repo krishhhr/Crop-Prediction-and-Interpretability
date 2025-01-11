@@ -7,7 +7,7 @@ This project explores the use of **machine learning (ML)** techniques to recomme
 ## 📖 Table of Contents
 1. [Introduction](#-introduction)
 2. [Dataset Overview](#-dataset-overview)
-3. [Methodology](#-methodology)
+3. [Methodology](#%EF%B8%8F-methodology)
 4. [Results](#-results)
 5. [Discussion and Conclusion](#-discussion-and-conclusion)
 6. [References](#-references)
