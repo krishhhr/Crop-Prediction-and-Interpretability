@@ -80,7 +80,7 @@ SHAP (SHapley Additive exPlanations) values were used to:
   - **Precision, Recall, F1-Score:** Above 90% for all classes.
   
 ![Model Accuracy Comparison](https://github.com/user-attachments/assets/905a0746-c27f-4cf8-bd7f-1e9f59f1dbc8)
-) <!-- Replace with your accuracy comparison chart -->
+<!-- Replace with your accuracy comparison chart -->
 
 ### SHAP Analysis
 
@@ -89,21 +89,21 @@ SHAP (SHapley Additive exPlanations) values were used to:
 - **Insights:** Rice thrives in regions with sufficient water and moderate nitrogen content.
   
 ![SHAP Analysis for Rice](https://github.com/user-attachments/assets/f927bf49-d12c-46cb-b364-70f20e0f4ac2)
-) <!-- Replace with your SHAP image for rice -->
+ <!-- Replace with your SHAP image for rice -->
 
 #### 2. **Cotton**
 - **Key factors:** Warm temperatures and adequate potassium.
 - **Insights:** Cotton benefits from potassium for strong fiber formation.
   
 ![SHAP Analysis for Cotton](https://github.com/user-attachments/assets/427f98ae-7e73-4212-8047-59477a1d4f31)
-) <!-- Replace with your SHAP image for cotton -->
+ <!-- Replace with your SHAP image for cotton -->
 
 #### 3. **Papaya**
 - **Key factors:** Warm temperatures above 20°C, high humidity, and consistent rainfall.
 - **Insights:** Papaya thrives in humid climates with moderate rainfall.
   
 ![SHAP Analysis for Papaya](https://github.com/user-attachments/assets/d4bb1969-468c-47e8-8a26-0e7b488f584b)
-) <!-- Replace with your SHAP image for papaya -->
+ <!-- Replace with your SHAP image for papaya -->
 
 ---
 
@@ -125,8 +125,8 @@ SHAP (SHapley Additive exPlanations) values were used to:
 
 ## 🎉 Acknowledgment
 Special thanks to:
-- **Arti Nilesh Panchal:** Dataset curation, preprocessing, and model training.
-- **Krish Kamlesh Ranawat:** Model optimization, SHAP integration, and report analysis.
+- **Arti Nilesh Panchal:** Dataset curation, preprocessing, model training and report analysis.
+- **Krish Kamlesh Ranawat:** Model training and optimization, SHAP integration, and report analysis.
 
 ---
 
